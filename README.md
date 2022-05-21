@@ -1,9 +1,8 @@
 # Nerusaba-Homepage
-日本語
+日本語(Japanese)
 「Nerusaba Network」の公式ホームページです。
 リンク:www.nerusaba.com
 ※ページはCloudflare Pagesで動作しています。
-※コードなどは「IntelliJ IDEA CE」を使って制作をしてます。
 
 English(英語)
 This is the official website of the Nerusaba Network.
