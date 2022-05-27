@@ -8,7 +8,6 @@ English(英語)
 This is the official website of the Nerusaba Network.
 Link:www.nerusaba.com (English version is in preparation.)
 This page is powered by Cloudflare Pages.
-The code is created using "IntelliJ IDEA CE".
 
 ## License
 MIT
